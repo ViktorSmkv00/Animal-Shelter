@@ -46,3 +46,8 @@
 3. Compile and run the application.
 4. Follow the on-screen prompts to interact with the application and manage animal data.
 
+
+### Acknowledgments
+
+- This project showcases my skills in Java, Spring Boot, RESTful APIs, and Tomcat server deployment.
+
