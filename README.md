@@ -1,7 +1,6 @@
 # Animal Shelter
 
-A management system for an animal shelter built using Spring Boot, allowing users to create, retrieve, update and delete animals.
-
+ A REST API built with Spring Boot used for managing an animal shelter, allowing users to add, update, retrieve, delete, and search animals. Features include REST APIs, Tomcat hosting, and integration with Postman for testing CRUD operations. 
 
  
  ## Features
