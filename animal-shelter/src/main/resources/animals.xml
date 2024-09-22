@@ -1,0 +1,20 @@
+<list>
+  <bg.tuvarna.sit.animalshelter.model.Animal>
+    <id>99be50b2-095c-4535-9226-ffbfc3e4c0f0</id>
+    <type>cat</type>
+    <name>cat1</name>
+    <date>10.02.2022</date>
+  </bg.tuvarna.sit.animalshelter.model.Animal>
+  <bg.tuvarna.sit.animalshelter.model.Animal>
+    <id>85e2a05b-12ef-4c8e-8e2b-8b1d2b4bcfc6</id>
+    <type>dog</type>
+    <name>dog1</name>
+    <date>10.02.2022</date>
+  </bg.tuvarna.sit.animalshelter.model.Animal>
+  <bg.tuvarna.sit.animalshelter.model.Animal>
+    <id>d69a1467-ceff-4f6e-a3e0-d9c288dd0f17</id>
+    <type>dog</type>
+    <name>dog2</name>
+    <date>10.02.2022</date>
+  </bg.tuvarna.sit.animalshelter.model.Animal>
+</list>
